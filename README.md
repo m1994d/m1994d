@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Marlon Diaz</h1>
 <h3 align="center">A frontend developer from Colombia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tluciad&label=Profile%20views&color=0e75b6&style=flat" alt="m1994d_" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=m1994d_&label=Profile%20views&color=0e75b6&style=flat" alt="m1994d_" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tanitans28" target="blank"><img src="https://img.shields.io/twitter/follow/m1994d_?logo=twitter&style=for-the-badge" alt="m1994d_" /></a> </p>
 
