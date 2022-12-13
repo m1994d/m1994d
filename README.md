@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/m1994d_" target="blank"><img src="https://img.shields.io/twitter/follow/m1994d_?logo=twitter&style=for-the-badge" alt="m1994d_" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, python**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, Python**
 
 - 📫 How to reach me **marlondiaz2994@gmail.com**
 
