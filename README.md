@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Marlon Andres Diaz</h1>
 <h3 align="center">A frontend developer from Colombia</h3>
 
-<p align="left"> <a href="https://twitter.com/m1994d_" target="blank"><img src="https://img.shields.io/twitter/follow/m1994d_?logo=twitter&style=for-the-badge" alt="m1994d_" /></a> </p>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React.JS**
 
@@ -15,6 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 <a href="https://www.linkedin.com/in/marlon-andres-diaz-suarez-715465226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marlon andres diaz" height="30" width="40" /></a> 
 
 <h3 align="left">Languages and Tools:</h3>
