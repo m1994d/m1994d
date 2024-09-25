@@ -4,9 +4,9 @@
 <h3 align="center">A frontend developer from Colombia</h3>
 
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React.JS**
+- 👽🎓 I’m currently learning **HTML, CSS, JavaScript, React.JS**
 
-- 📫 How to reach me **marlondiaz2994@gmail.com**
+- 👽🖥️ How to reach me **marlondiaz2994@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
