@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👨‍💻
 
-<h1 align="center">Hi 👋, I'm Marlon Andres Diaz</h1>
-<h3 align="center">A frontend developer from Colombia</h3>
+<h1 align="center">Hi 👋, I'm Marlon Andres Diaz Suarez</h1>
+<h3 align="center">A front-end developer from Colombia</h3>
 
 
 - 👽🎓 I’m currently learning **HTML, CSS, JavaScript, React.JS**
