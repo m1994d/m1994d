@@ -1,7 +1,5 @@
 ### Hi there 👨‍💻
 
-# Bienvenido a <span style="color: green;">MadTech</span> 🚀
-
 <h1 align="center">Hi 👋, I'm Marlon Andres Diaz Suarez</h1>
 <h3 align="center">A front-end developer from Colombia</h3>
 
